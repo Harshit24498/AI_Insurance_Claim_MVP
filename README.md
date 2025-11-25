@@ -1,8 +1,7 @@
 Ema Claims MVP (Streamlit) - Option A (Simple UI)
 ================================================
 
-This is a deploy-ready Streamlit prototype for the Ema APM take-home project.
-It is intentionally simple and uses mocked AI behaviors to demonstrate the user flow.
+This is Streamlit prototype which uses mocked AI behaviors to demonstrate the user flow.
 
 Files:
 - app.py : Main Streamlit app
